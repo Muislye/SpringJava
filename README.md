@@ -14,3 +14,6 @@ And how to document the commands with Swagger
 - IntelliJ
 - Swagger
 - Postman
+
+#### Author
+Francisco Gutierrez Quinza
